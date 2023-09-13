@@ -96,6 +96,7 @@ const Todo = () => {
   return (
     <div className='bg-cover h-screen w-screen pt-10' style={{ backgroundImage: `url(${BGImg})` }}>
       <h2 className='text-gray-600 bg-gray-200 w-1/2 m-auto text-center font-bold text-3xl py-5 rounded'>React TypeScript ToDo</h2>
+      <h2 className='text-gray-600 bg-gray-200 w-1/2 m-auto text-center font-bold text-md pb-2 rounded'>For Nifty It</h2>
       <div className='w-1/2 m-auto shadow-lg bg-gradient-to-r from-gray-200 to-gray-300 p-10 mt-10 flex  rounded-sm'>        
         <div className='w-3/5 p-2'>      
           <h2 className='font-bold text-xl text-teal-600'>My ToDo's</h2>
